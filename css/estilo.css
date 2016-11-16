@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Taviraj');
+
+body { 
+	font-family: 'Taviraj', serif;
+	width: 100%;  
+}
+
+header {
+			display: inline-block; 
+			vertical-align: top; 
+			width: 50%;
+		}
+
+	header a {
+			font-size: 40px;
+			color: black;
+			text-decoration: none;
+
+	}
+
+
+	nav {
+			display: inline-block; 
+			vertical-align: top; 
+			margin: 0 20px 0 0;
+			text-align: right;
+			width: 40%;
+
+		}
+
+		nav ul li {
+			display: inline-block; 
+			vertical-align: top; 
+			font-size: 15px;
+			color: #eaeaea;
+			text-decoration: none;
+			margin: 0 10px;
+		}
+
+			nav ul li .boton-gris {
+				color: gray;
+				text-decoration: none;
+
+			}
+
+			nav ul li .boton-azul {
+				color: #00BFFF;
+				text-decoration: none;
+			}
+
+			nav ul li .boton-naranjo {
+				color: white;
+				text-decoration: none;
+				background-color: orange;
+				padding: 5px;
+			}
+
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+
+
+}
+
+	h2 {
+		font-size: 30px;
+		text-align: center;
+
+
+	}
+
+	section {
+
+		display: inline-block;
+		vertical-align: top; 
+
+
+	}
+
+		section article {
+			background-color: #999;
+			text-align: center;
+			display: inline-block;
+			vertical-align: top; 
+
+		}
+
+			section article	p.bajada {
+				font-size: 15px;
+				font-style: italic;
+			}	
+
+
+			section article	p.precio {
+				font-size: 60px;
+				margin-top: 20px;
+
+			}
+
+			section article a.try-now {
+				font-size: 15px;
+				color:#000;
+				font-style: bold;
+				text-decoration: none;
+				background-color: FFFF00;
+		    	padding: 5px 30px;
+		    	text-align: center;
+
+			}
+
+
+
+
+
+
